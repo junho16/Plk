@@ -7,12 +7,9 @@ import ilog.concert.IloNumVar;
 import ilog.cplex.IloCplex;
 
 /**
- * This class is to conduct a model in cplex and solve
- * @param problem parameter
- * @return return solve result
- * @throws IloException
+ * @author Junho
+ * @date 2022/3/17 20:30
  */
-
 public class model_transportation {
 	IloCplex cplex ;
 	double objectiveValue;

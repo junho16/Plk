@@ -1,11 +1,15 @@
-plant               quantity    isSource   id
-Sunnyvale   45 1 0
-Dublin  120 1 1
-Bangkok  95 1 2
-Amarillo  80 0 0
-Teaneck   78  0 1
-Chicago  47 0 2
-SiouxFalls  55 0 3
- 
-
- 
+plant quantity isSource id
+A 430080 1 0
+B 430080 1 1
+C 430080 1 2
+A 12083 0 0
+B 15832 0 1
+C 5120 0 2
+D 6419 0 3
+E 6115 0 4
+F 67657 0 5
+G 6275 0 6
+H 2533 0 7
+I 26195 0 8
+J 33670 0 9
+K 1108341 0 10

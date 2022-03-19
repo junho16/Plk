@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cplex">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CodeCraft-2022/src/transportation_problem/cplex.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

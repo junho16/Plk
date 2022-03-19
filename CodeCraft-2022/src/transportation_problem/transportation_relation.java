@@ -1,11 +1,9 @@
 package transportation_problem;
 
 /**
- * This class is to define the transportation_relation
- * @param Property of node
- * @return a relation object
+ * @author Junho
+ * @date 2022/3/17 20:30
  */
-
 public class transportation_relation {
 	int [] distance ;
 	public transportation_relation(int[] distance) {

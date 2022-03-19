@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Plk:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Plk_jar</output-path>
+    <root id="archive" name="Plk.jar">
+      <element id="module-output" name="Plk" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/CodeCraft-2022/src/transportation_problem/cplex.jar" path-in-jar="/" />
+      <element id="library" level="project" name="cplex" />
+    </root>
+  </artifact>
+</component>

@@ -1,11 +1,9 @@
 package transportation_problem;
 
 /**
- * This class is to define the transportation_node
- * @param Property of node
- * @return a node object
+ * @author Junho
+ * @date 2022/3/17 20:30
  */
-
 public class transportation_node {
 	String NodeName;
 	int quantity;
